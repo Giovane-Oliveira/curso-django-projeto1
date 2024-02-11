@@ -1,5 +1,5 @@
 venv
-.vscode
+#.vscode
 .pytest_cache
 # Django #
 *.log
