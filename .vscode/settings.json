@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "venv"
+        "projeto1"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
